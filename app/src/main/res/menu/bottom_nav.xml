@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Favourites"
+        android:id="@+id/favourites"
+        android:icon="@drawable/ic_favourites" />
+    <item
+        android:title="Recent"
+        android:id="@+id/recent"
+        android:icon="@drawable/ic_recent"/>
+    <item
+        android:title="Contact"
+        android:id="@+id/contact"
+        android:icon="@drawable/ic_person"/>
+    <item
+        android:title="Call"
+        android:id="@+id/call"
+        android:icon="@drawable/ic_call"/>
+
+</menu>
